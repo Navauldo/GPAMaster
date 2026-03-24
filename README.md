@@ -13,4 +13,4 @@ mvn clean compile
 mvn exec:java
 
 ## Author
-Navauld O'Sharpe
+Navauldo Sharpe
